@@ -11,7 +11,7 @@ Welcome to the QA Wolf project! This guide will help you set up the project, run
 Clone this repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/0ld-goose/project
 ```
 
 ### 2. Install Dependencies
